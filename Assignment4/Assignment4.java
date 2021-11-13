@@ -17,7 +17,7 @@ class Client{
 
     }
     void send_request_to_as(int serviceType){
-        
+        add
     }
     void request_ts(String ticket_from_as){
 
